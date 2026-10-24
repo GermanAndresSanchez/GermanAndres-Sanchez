@@ -18,7 +18,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-claro.svg">
-    <img alt="Banner de TU-NOMBRE: desarrollador de software" src="assets/banner.svg" width="100%">
+    <img alt="Banner de German Andres: desarrollador de software" src="assets/banner.svg" width="100%">
   </picture>
 </p>
 
