@@ -27,9 +27,7 @@
   <a href="https://github.com/GermanAndresSanchez?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/GermanAndresSanchez?style=for-the-badge&logo=github&label=Seguidores"></a>
   <a href="https://github.com/GermanAndresSanchez?tab=repositories"><img alt="Estrellas" src="https://img.shields.io/github/stars/GermanAndresSanchez?style=for-the-badge&logo=github&label=Estrellas"></a>
   <img alt="Visitas al perfil" src="https://komarev.com/ghpvc/?username=GermanAndresSanchez&style=for-the-badge&label=Visitas">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.npmjs.com/~GermanAndresSanchez"><img alt="NPM (opcional)" src="https://img.shields.io/badge/npm-opcional-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
-  <a href="https://discord.com/users/TU-ID-DISCORD"><img alt="Discord (opcional)" src="https://img.shields.io/badge/Discord-opcional-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 ## Hola, soy German Andres 👋
@@ -51,8 +49,8 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 
 <!-- ✏️ EDITA: datos personales que quieras compartir (nada sensible). -->
 - 🎓 Estudiando: Tecnólogo en Análisis y Desarrollo de Software (SENA, jornada noche)
-- 🌱 Aprendiendo ahora: TU-TEMA (ej. Vue, pruebas, Docker)
-- 🤝 Pregúntame sobre: TU-TEMA (ej. HTML y CSS, Git básico)
+- 🌱 Aprendiendo ahora: aplicacion de juego web (ej. Vue, pruebas, Docker)
+- 🤝 Pregúntame sobre: aplicacion de juego web (ej. HTML y CSS, Git básico)
 - ⚡ Dato curioso: aprendiendo a manejar el código con bases SOLID, POO, ACID y CAP
 - 🗣️ Idiomas: Español (nativo) · Inglés (nivel A2)
 
@@ -77,7 +75,7 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 <!-- ✏️ EDITA: cambia los proyectos de ejemplo por los tuyos. Formato: **Nombre** — descripción + enlaces. -->
 
 ### 🌐 Aplicaciones web
-- **Proyecto Uno** — proyecto de juego gark fantasy (https://github.com/TU-USUARIO/proyecto-uno) · [Demo](https://TU-USUARIO.github.io/proyecto-uno)
+- **Proyecto Uno** — proyecto de juego gark fantasy (https://github.com/GermanAndresSanchez/proyecto-uno) · [Demo][(https://GermanAndresSanchez.github.io/proyecto-uno)](http://127.0.0.1:5174 ) es local
 
 
 ### 🎨 Frontend y diseño
