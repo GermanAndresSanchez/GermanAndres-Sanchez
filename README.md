@@ -51,10 +51,10 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 
 <!-- ✏️ EDITA: datos personales que quieras compartir (nada sensible). -->
 - 🎓 Estudiando: Tecnólogo en Análisis y Desarrollo de Software (SENA, jornada noche)
-- 🌱 Aprendiendo ahora: TU-TEMA (ej. React, pruebas, Docker)
+- 🌱 Aprendiendo ahora: TU-TEMA (ej. Vue, pruebas, Docker)
 - 🤝 Pregúntame sobre: TU-TEMA (ej. HTML y CSS, Git básico)
-- ⚡ Dato curioso: TU-DATO
-- 🗣️ Idiomas: Español (nativo) · Inglés (nivel TU-NIVEL)
+- ⚡ Dato curioso: aprendiendo a manejar el código con bases SOLID, POO, ACID y CAP
+- 🗣️ Idiomas: Español (nativo) · Inglés (nivel A2)
 
 </details>
 
@@ -62,26 +62,23 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 
 <!-- ✏️ EDITA: deja SOLO lo que realmente has usado. Lista los iconos en skillicons.dev (?i=a,b,c). -->
 <p>
-  <img alt="Tecnologías: JavaScript, React, Node.js, PostgreSQL, Git" src="https://skillicons.dev/icons?i=js,react,nodejs,postgres,git">
+  <img alt="Tecnologías: Vue, Node.js, PostgreSQL, Express, GitHub" src="https://skillicons.dev/icons?i=js,react,nodejs,postgres,git">
 </p>
 
 | Categoría | Tecnologías |
 |-----------|-------------|
-| 🎨 **Frontend** | HTML, CSS, JavaScript, React |
+| 🎨 **Frontend** | HTML, CSS, VUE, TypeScript |
 | ⚙️ **Backend** | Node.js, Express |
-| 🗄️ **Bases de datos** | PostgreSQL, MySQL |
-| 🧰 **Herramientas** | Git, GitHub, VS Code, Figma |
+| 🗄️ **Bases de datos** | PostgreSQL |
+| 🧰 **Herramientas** | GitHub, VS Code, Figma |
 | 📚 **Aprendiendo** | TypeScript, Docker |
 
 ## 🗺 Mapa de proyectos
 <!-- ✏️ EDITA: cambia los proyectos de ejemplo por los tuyos. Formato: **Nombre** — descripción + enlaces. -->
 
 ### 🌐 Aplicaciones web
-- **Proyecto Uno** — Tienda en línea de ejemplo con carrito de compras. [Repo](https://github.com/TU-USUARIO/proyecto-uno) · [Demo](https://TU-USUARIO.github.io/proyecto-uno)
-- **Proyecto Dos** — Gestor de tareas con login y base de datos. [Repo](https://github.com/TU-USUARIO/proyecto-dos)
+- **Proyecto Uno** — proyecto de juego gark fantasy (https://github.com/TU-USUARIO/proyecto-uno) · [Demo](https://TU-USUARIO.github.io/proyecto-uno)
 
-### 📱 Móvil
-- **Proyecto Tres** — App de ejemplo para registrar gastos del mes. [Repo](https://github.com/TU-USUARIO/proyecto-tres)
 
 ### 🎨 Frontend y diseño
 - **Mi Portafolio** — Sitio personal responsive. [Repo](https://github.com/TU-USUARIO/TU-USUARIO.github.io) · [Demo](https://TU-PORTAFOLIO.com)
@@ -115,9 +112,8 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 <!-- ✏️ EDITA: tabla con tus mejores repos (también puedes fijarlos en tu perfil, ver GUIA.md). -->
 | Repositorio | Descripción | Tecnologías |
 |-------------|-------------|-------------|
-| [proyecto-uno](https://github.com/TU-USUARIO/proyecto-uno) | Tienda en línea de ejemplo | HTML, CSS, JS |
-| [proyecto-dos](https://github.com/TU-USUARIO/proyecto-dos) | Gestor de tareas con login | Node.js, PostgreSQL |
-| [proyecto-tres](https://github.com/TU-USUARIO/proyecto-tres) | App de gastos | React |
+| [proyecto-uno](https://github.com/TU-USUARIO/proyecto-uno) | Juego bingo Dark Fantasy |VUE, TYPESCRIPTS, EXPRESS, POSTGRESQL |
+
 
 ## 📫 Contáctame
 
